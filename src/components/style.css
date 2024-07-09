@@ -1,0 +1,27 @@
+#wz-navbar-container {
+  border: 1px black solid;
+  padding: 8px 80px;
+  font-size: 1rem;
+  background-color: #0d3721;
+  color: #b7903d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+#wz-navlinks-container {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
+#wz-navlinks-container-p {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
